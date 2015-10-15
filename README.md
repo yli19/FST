@@ -1,3 +1,0 @@
-# FST
-abc
-def
